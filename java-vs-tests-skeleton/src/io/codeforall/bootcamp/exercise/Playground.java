@@ -1,5 +1,7 @@
 package io.codeforall.bootcamp.exercise;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class Playground {
 
     public static void main(String[] args) {
@@ -24,5 +26,17 @@ public class Playground {
 
 //Plaindrome
         System.out.println(ai.palindromeReplace("Anna Igor"));
+
+
+        // Regex
+        System.out.println(ai.);
+
     }
+
+
+
+
+
+
+
 }
